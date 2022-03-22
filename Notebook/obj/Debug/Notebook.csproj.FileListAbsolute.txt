@@ -1,0 +1,9 @@
+C:\Users\matiwa\source\repos\Notebook\Notebook\bin\Debug\Notebook.exe
+C:\Users\matiwa\source\repos\Notebook\Notebook\bin\Debug\Notebook.pdb
+C:\Users\matiwa\source\repos\Notebook\Notebook\obj\Debug\Notebook.csprojAssemblyReference.cache
+C:\Users\matiwa\source\repos\Notebook\Notebook\obj\Debug\Notebook.frmNotatnik.resources
+C:\Users\matiwa\source\repos\Notebook\Notebook\obj\Debug\Notebook.Properties.Resources.resources
+C:\Users\matiwa\source\repos\Notebook\Notebook\obj\Debug\Notebook.csproj.GenerateResource.cache
+C:\Users\matiwa\source\repos\Notebook\Notebook\obj\Debug\Notebook.csproj.CoreCompileInputs.cache
+C:\Users\matiwa\source\repos\Notebook\Notebook\obj\Debug\Notebook.exe
+C:\Users\matiwa\source\repos\Notebook\Notebook\obj\Debug\Notebook.pdb
